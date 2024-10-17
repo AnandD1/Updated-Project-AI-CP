@@ -1,0 +1,410 @@
+{
+  "hard": [
+    {
+      "question": "What is the primary limitation of traditional rule-based expert systems?",
+      "options": [
+        "Inability to handle uncertainty",
+        "Limited computational power",
+        "Lack of scalability",
+        "Difficulty in knowledge representation"
+      ],
+      "answer": "Inability to handle uncertainty"
+    },
+    {
+      "question": "Which technique in reinforcement learning aims to estimate the value function directly without explicitly learning a policy?",
+      "options": [
+        "Q-Learning",
+        "Actor-Critic",
+        "Deep Q-Networks (DQN)",
+        "Temporal Difference (TD) Learning"
+      ],
+      "answer": "Temporal Difference (TD) Learning"
+    },
+    {
+      "question": "In natural language processing (NLP), which technique is used to convert words into their base or root form?",
+      "options": [
+        "Tokenization",
+        "Lemmatization",
+        "Stemming",
+        "Part-of-speech tagging"
+      ],
+      "answer": "Lemmatization"
+    },
+    {
+      "question": "Which neural network architecture is specifically designed to process sequential data, such as time series or natural language?",
+      "options": [
+        "Convolutional Neural Network (CNN)",
+        "Recurrent Neural Network (RNN)",
+        "Long Short-Term Memory (LSTM)",
+        "Generative Adversarial Network (GAN)"
+      ],
+      "answer": "Long Short-Term Memory (LSTM)"
+    },
+    {
+      "question": "What is the primary objective of the A* algorithm in search and optimization?",
+      "options": [
+        "Minimize the number of explored nodes",
+        "Maximize the utility function",
+        "Find the shortest path in a graph",
+        "Minimize both path cost and heuristic cost"
+      ],
+      "answer": "Minimize both path cost and heuristic cost"
+    },
+    {
+      "question": "Which of the following is a drawback of genetic algorithms?",
+      "options": [
+        "Lack of global optimization capability",
+        "Susceptibility to premature convergence",
+        "Limited application in combinatorial optimization problems",
+        "Inability to handle nonlinear optimization tasks"
+      ],
+      "answer": "Susceptibility to premature convergence"
+    },
+    {
+      "question": "What is the key difference between supervised learning and unsupervised learning?",
+      "options": [
+        "Supervised learning requires labeled data, while unsupervised learning does not.",
+        "Unsupervised learning requires labeled data, while supervised learning does not.",
+        "Supervised learning aims at classification tasks, while unsupervised learning focuses on clustering.",
+        "Unsupervised learning requires feedback from an external agent, while supervised learning does not."
+      ],
+      "answer": "Supervised learning requires labeled data, while unsupervised learning does not."
+    },
+    {
+      "question": "Which technique is used to mitigate the problem of vanishing gradients in deep neural networks?",
+      "options": [
+        "Rectified Linear Unit (ReLU)",
+        "Gradient clipping",
+        "Batch normalization",
+        "Dropout regularization"
+      ],
+      "answer": "Batch normalization"
+    },
+    {
+      "question": "What is the primary advantage of using ensemble learning methods such as random forests or boosting?",
+      "options": [
+        "Improved generalization and robustness",
+        "Reduced training time",
+        "Simplified model interpretation",
+        "Elimination of overfitting"
+      ],
+      "answer": " Improved generalization and robustness"
+    },
+    {
+      "question": "In Bayesian networks, what does a directed edge between two nodes represent?",
+      "options": [
+        "Correlation between variables",
+        "Causal relationship between variables",
+        "Mutual exclusivity between variables",
+        "Conditional independence between variables"
+      ],
+      "answer": "Causal relationship between variables"
+    }
+  ],
+  "medium_hard": [
+    {
+      "question": "Which technique is commonly used to pre-process textual data by removing common words that carry little semantic meaning?",
+      "options": [
+        "Stopword removal",
+        "Stemming",
+        "Lemmatization",
+        "Tokenization"
+      ],
+      "answer": "Stopword removal"
+    },
+    {
+      "question": "In deep learning, what does the term overfitting refer to?",
+      "options": [
+        "The model performs well on the training data but poorly on unseen data.",
+        "The model fails to converge during training.",
+        "The model generalizes well to unseen data.",
+        "The model suffers from high bias."
+      ],
+      "answer": "The model performs well on the training data but poorly on unseen data."
+    },
+    {
+      "question": "Which algorithm is used to optimize the weights of a neural network by iteratively updating them based on the gradient of the loss function?",
+      "options": [
+        "Gradient Boosting",
+        "K-Means",
+        "Backpropagation",
+        "Expectation-Maximization (EM)"
+      ],
+      "answer": "Backpropagation"
+    },
+    {
+      "question": "Which technique is used to transform categorical variables into numerical representations suitable for machine learning algorithms?",
+      "options": [
+        "One-Hot Encoding",
+        "Principal Component Analysis (PCA)",
+        "Mean Normalization",
+        "Feature Scaling"
+      ],
+      "answer": "One-Hot Encoding"
+    },
+    {
+      "question": "What is the purpose of the activation function in a neural network?",
+      "options": [
+        "To normalize the input data",
+        "To introduce non-linearity into the network",
+        "To reduce the dimensionality of the data",
+        "To regularize the weights of the network"
+      ],
+      "answer": "To introduce non-linearity into the network"
+    },
+    {
+      "question": "Which approach in machine learning involves mimicking the structure and function of the human brain to build intelligent systems?",
+      "options": [
+        "Reinforcement Learning",
+        "Supervised Learning",
+        "Unsupervised Learning",
+        "Neural Networks"
+      ],
+      "answer": "Neural Networks"
+    },
+    {
+      "question": "Which theorem provides a formal basis for the Naive Bayes classifier by assuming independence between features?",
+      "options": [
+        "Central Limit Theorem",
+        "Bayes Theorem",
+        "Gauss-Markov Theorem",
+        "Chain Rule"
+      ],
+      "answer": "Bayes Theorem"
+    },
+    {
+      "question": "Which type of learning technique adjusts the model's parameters based on the difference between predicted and actual outcomes?",
+      "options": [
+        "Supervised Learning",
+        "Unsupervised Learning",
+        "Reinforcement Learning",
+        "Semi-supervised Learning"
+      ],
+      "answer": "Supervised Learning"
+    },
+    {
+      "question": "What is the process of updating the model's parameters using the gradient of the loss function called in optimization?",
+      "options": [
+        "Backpropagation",
+        "Forward propagation",
+        "Gradient descent",
+        "Stochastic gradient descent"
+      ],
+      "answer": "Backpropagation"
+    },
+    {
+      "question": "Which evaluation metric is commonly used for classification tasks and represents the ratio of correctly predicted instances to the total instances?",
+      "options": [
+        "Mean Absolute Error (MAE)",
+        "F1 Score",
+        "Root Mean Squared Error (RMSE)",
+        "Accuracy"
+      ],
+      "answer": "Accuracy"
+    }
+  ],
+  "medium": [
+    {
+      "question": "What is the purpose of an activation function in a neural network?",
+      "options": [
+        "To initialize the weights",
+        "To compute the gradient efficiently",
+        "To introduce non-linearity into the network",
+        "To normalize the input data"
+      ],
+      "answer": "To introduce non-linearity into the network"
+    },
+    {
+      "question": "Which algorithm is commonly used for anomaly detection in time-series data?",
+      "options": [
+        "Linear Regression",
+        "K-means Clustering",
+        "Isolation Forest",
+        "Decision Trees"
+      ],
+      "answer": "Isolation Forest"
+    },
+    {
+      "question": "What does the term 'overfitting' refer to in machine learning?",
+      "options": [
+        "The model performs well on the training data but poorly on unseen data.",
+        "The model fails to converge during training.",
+        "The model generalizes well to unseen data.",
+        "The model suffers from high bias."
+      ],
+      "answer": "The model performs well on the training data but poorly on unseen data."
+    },
+    {
+      "question": "Which evaluation metric is commonly used for classification tasks and represents the ratio of correctly predicted instances to the total instances?",
+      "options": [
+        "Mean Absolute Error (MAE)",
+        "F1 Score",
+        "Root Mean Squared Error (RMSE)",
+        "Accuracy"
+      ],
+      "answer": "Accuracy"
+    },
+    {
+      "question": "What is the purpose of dropout regularization in neural networks?",
+      "options": [
+        "To reduce the computational cost of training the model",
+        "To prevent overfitting by randomly dropping units from the neural network during training",
+        "To speed up the convergence of the optimization algorithm",
+        "To increase the model's capacity to capture complex patterns in the data"
+      ],
+      "answer": "To prevent overfitting by randomly dropping units from the neural network during training"
+    },
+    {
+      "question": "Which technique is used to transform categorical variables into numerical representations suitable for machine learning algorithms?",
+      "options": [
+        "One-Hot Encoding",
+        "Principal Component Analysis (PCA)",
+        "Mean Normalization",
+        "Feature Scaling"
+      ],
+      "answer": "One-Hot Encoding"
+    },
+    {
+      "question": "What is the purpose of the EM (Expectation-Maximization) algorithm in clustering?",
+      "options": [
+        "To maximize the likelihood function of the data given the model parameters",
+        "To minimize the within-cluster sum of squares",
+        "To initialize the centroids for K-means clustering",
+        "To estimate the parameters of a mixture model from incomplete data"
+      ],
+      "answer": "To estimate the parameters of a mixture model from incomplete data"
+    },
+    {
+      "question": "Which algorithm is commonly used for collaborative filtering in recommendation systems?",
+      "options": [
+        "K-means Clustering",
+        "Random Forest",
+        "Singular Value Decomposition (SVD)",
+        "Gradient Boosting Machines (GBM)"
+      ],
+      "answer": "Singular Value Decomposition (SVD)"
+    },
+    {
+      "question": "What is the purpose of the A/B test in data science?",
+      "options": [
+        "To evaluate the performance of machine learning models",
+        "To compare the effectiveness of different marketing strategies",
+        "To preprocess the data before model training",
+        "To visualize the distribution of data"
+      ],
+      "answer": "To compare the effectiveness of different marketing strategies"
+    },
+    {
+      "question": "Which theorem provides a formal basis for the Naive Bayes classifier by assuming independence between features?",
+      "options": [
+        "Central Limit Theorem",
+        "Bayes Theorem",
+        "Gauss-Markov Theorem",
+        "Chain Rule"
+      ],
+      "answer": "Bayes Theorem"
+    }
+  ],
+  "easy": [
+    {
+      "question": "What is the purpose of an activation function in a neural network?",
+      "options": [
+        "To initialize the weights",
+        "To compute the gradient efficiently",
+        "To introduce non-linearity into the network",
+        "To normalize the input data"
+      ],
+      "answer": "To introduce non-linearity into the network"
+    },
+    {
+      "question": "Which algorithm is commonly used for anomaly detection in time-series data?",
+      "options": [
+        "Linear Regression",
+        "K-means Clustering",
+        "Isolation Forest",
+        "Decision Trees"
+      ],
+      "answer": "Isolation Forest"
+    },
+    {
+      "question": "What does the term 'overfitting' refer to in machine learning?",
+      "options": [
+        "The model performs well on the training data but poorly on unseen data.",
+        "The model fails to converge during training.",
+        "The model generalizes well to unseen data.",
+        "The model suffers from high bias."
+      ],
+      "answer": "The model performs well on the training data but poorly on unseen data."
+    },
+    {
+      "question": "Which evaluation metric is commonly used for classification tasks and represents the ratio of correctly predicted instances to the total instances?",
+      "options": [
+        "Mean Absolute Error (MAE)",
+        "F1 Score",
+        "Root Mean Squared Error (RMSE)",
+        "Accuracy"
+      ],
+      "answer": "Accuracy"
+    },
+    {
+      "question": "What is the purpose of dropout regularization in neural networks?",
+      "options": [
+        "To reduce the computational cost of training the model",
+        "To prevent overfitting by randomly dropping units from the neural network during training",
+        "To speed up the convergence of the optimization algorithm",
+        "To increase the model's capacity to capture complex patterns in the data"
+      ],
+      "answer": "To prevent overfitting by randomly dropping units from the neural network during training"
+    },
+    {
+      "question": "Which technique is used to transform categorical variables into numerical representations suitable for machine learning algorithms?",
+      "options": [
+        "One-Hot Encoding",
+        "Principal Component Analysis (PCA)",
+        "Mean Normalization",
+        "Feature Scaling"
+      ],
+      "answer": "One-Hot Encoding"
+    },
+    {
+      "question": "What is the purpose of the EM (Expectation-Maximization) algorithm in clustering?",
+      "options": [
+        "To maximize the likelihood function of the data given the model parameters",
+        "To minimize the within-cluster sum of squares",
+        "To initialize the centroids for K-means clustering",
+        "To estimate the parameters of a mixture model from incomplete data"
+      ],
+      "answer": "To estimate the parameters of a mixture model from incomplete data"
+    },
+    {
+      "question": "Which algorithm is commonly used for collaborative filtering in recommendation systems?",
+      "options": [
+        "K-means Clustering",
+        "Random Forest",
+        "Singular Value Decomposition (SVD)",
+        "Gradient Boosting Machines (GBM)"
+      ],
+      "answer": "Singular Value Decomposition (SVD)"
+    },
+    {
+      "question": "What is the purpose of the A/B test in data science?",
+      "options": [
+        "To evaluate the performance of machine learning models",
+        "To compare the effectiveness of different marketing strategies",
+        "To preprocess the data before model training",
+        "To visualize the distribution of data"
+      ],
+      "answer": "To compare the effectiveness of different marketing strategies"
+    },
+    {
+      "question": "Which theorem provides a formal basis for the Naive Bayes classifier by assuming independence between features?",
+      "options": [
+        "Central Limit Theorem",
+        "Bayes Theorem",
+        "Gauss-Markov Theorem",
+        "Chain Rule"
+      ],
+      "answer": "Bayes Theorem"
+    }
+  ]
+}

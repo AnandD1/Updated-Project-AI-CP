@@ -1,0 +1,6 @@
+{
+    "question": "What is supervised learning, and how does it use labeled data?",
+    "keywords": ["Supervised Learning", "Labeled Data", "Training Data", "Machine Learning", "Algorithm", "Prediction", "Classification", "Regression"],
+    "ideal_answer": "Supervised learning is a type of machine learning where an algorithm is trained on labeled data. The model learns to make predictions or classifications based on this training data. Labeled data contains both the input and the correct output, allowing the algorithm to learn the relationship between them. Supervised learning is commonly used in applications like email filtering, fraud detection, and predictive analytics.",
+    "ideal_rating": 9.4
+}
